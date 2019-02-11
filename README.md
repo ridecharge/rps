@@ -13,7 +13,7 @@ Create a web-based application that allows a user to play rock-paper-scissors.
 - The application should allow a user to choose rock, paper, or scissors
 - The application should make a request to the api documented here to retrieve the server’s throw.  Make sure to consider the non happy path cases.
 
-https://curbrockpaperscissors.docs.apiary.io
+    https://curbrockpaperscissors.docs.apiary.io
 
 
 - If the api given above doesn’t work or you’ve run out of time, an alternative is to generate a random throw locally
