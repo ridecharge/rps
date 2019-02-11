@@ -2,11 +2,11 @@
 
 **Goal**
 
-  Create a web-based application that allows a user to play rock-paper-scissors.
+    Create a web-based application that allows a user to play rock-paper-scissors.
 
 **Estimated Time**
 
-  2-3 hours
+    2-3 hours
 
 **Requirements**
 
@@ -30,18 +30,18 @@
 
 **Technologies**
 
-  Use any technology that you think best show cases your work.  For example, if you are interviewing for a web application developer position you might use pure javascript, jQuery, React.js, etc.  For a server position you might use Ruby on Rails, Node, Lambdas, Java (if you’re crazy), etc.
+   Use any technology that you think best show cases your work.  For example, if you are interviewing for a web application developer position you might use pure javascript, jQuery, React.js, etc.  For a server position you might use Ruby on Rails, Node, Lambdas, Java (if you’re crazy), etc.
 
 **User Interface**
 
-  NOTE : This step is Extra Credit for Server developers.
+    NOTE : This step is Extra Credit for Server developers.
 
-  Implement the user interface as shown in this mockup :
+    Implement the user interface as shown in this mockup :
 
-  https://xd.adobe.com/spec/9f82f558-f25b-4982-7ded-1f2b5e0fe897-e9b3/
+    https://xd.adobe.com/spec/9f82f558-f25b-4982-7ded-1f2b5e0fe897-e9b3/
 
-  The icon assets can be downloaded from the adobe site.
+    The icon assets can be downloaded from the adobe site.
 
 **Deliverable**
 
-  Link to a github repo with a readme explaining how to install and play the game.  The repo should include a master branch and a feature branch with a PR.
+    Link to a github repo with a readme explaining how to install and play the game.  The repo should include a master branch and a feature branch with a PR.
