@@ -1,0 +1,15 @@
+#result
+	h1= @status
+	p= @message
+	= image_tag @server_throw + ".svg"
+	#close Ok
+	
+javascript:
+	var close = document.getElementById("close");
+	var modal = document.getElementById('myModal');
+	var modalContent = document.getElementsByClassName("modal-content")[0];
+	close.onclick = function() {
+	  modal.style.display = "none";
+	 	modalContent.style.height = "470px";
+		modalContent.style.width = "880px";
+	}
