@@ -44,4 +44,4 @@ The icon assets can be downloaded from the adobe site.
 
 **Deliverable**
 
-Link to a github repo with a readme explaining how to install and play the game.  The repo should include a master branch and a feature branch with a PR.
+Link to a github repo with a readme explaining how to install and play the game.  The repo should include a master branch and a feature branch with a PR.  Please commit incrementally as the application is developed.
